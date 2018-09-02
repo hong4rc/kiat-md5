@@ -1,0 +1,21 @@
+{
+    "name": "kiat-md5",
+    "version": "0.0.1",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/Hongarc/kiat-md5.git"
+    },
+    "description": "Hashing messages with MD5",
+    "author": "Hongarc <anhhong12121997t@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint index.js --fix"
+    },
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "devDependencies": {
+        "eslint": "^5.4.0"
+    }
+}
