@@ -1,5 +1,7 @@
 # kiat-md5
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Hongarc/kiat-md5.svg)](https://greenkeeper.io/)
+
 Simple module to create hash md5
 
 ## Installation
